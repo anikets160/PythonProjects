@@ -12,3 +12,5 @@ b = 2
 breakpoint()
 c = a + b
 print(c)
+
+d = 1
